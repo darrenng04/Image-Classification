@@ -1,6 +1,6 @@
 # Image-Classification
 The dataset used was from Zalando’s Fashion – MNIST containing 70,000 grayscale images of 10 types of clothing items. 
 Utilzed TensorFlow and Keras to classify images in the dataset to help differentiate the 10 categories.​
-- First attempt at a ML project with the help of Zalando's-MNIST research.
+- First attempt at a ML project done during my time in my Machine Learning class with the help of Zalando's-MNIST research.
 - Achieved an 88% accuracy score using a Sequential Model.
 - Achieved a 90% accuracy score building a CNN model.
